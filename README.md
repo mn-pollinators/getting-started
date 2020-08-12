@@ -72,6 +72,8 @@ Now, you should be able to see the whole history of the project!
 
 ![The screen that GitKraken shows when you've opened a repo][i:GitKraken graph view]
 
+Generally speaking, you will want to create a branch for any feature or change you wish to contribute, and then make a pull request in GitHub when you think it is ready for review to be added to the main branch in the repository. You can check out any branch locally using GitKraken by double-clicking it.
+
 ## Installing Node.js
 
 At this point, you should have all of the code for a repository on your computer, but you still don't have a way to compile and run it. For that, you'll need to install Node.js, a JavaScript runtime.
