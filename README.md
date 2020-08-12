@@ -26,7 +26,7 @@ If you're a student at Morris, be sure to sign up for the [student developer pac
 
 ## Installing Visual Studio Code
 
-Next, in order to read and write the code, you're going to need a text editor. There are a lot of good options, but the one that we've been using is [Visual Studio Code][], particularly because of its [live share][Live share] feature.
+Next, in order to read and write the code, you're going to need a text editor. There are a lot of good options, but the one that we've been using is [Visual Studio Code][], particularly because of its [Live Share][Live share] feature.
 
 ![Visual Studio Code][i:VS Code]
 
