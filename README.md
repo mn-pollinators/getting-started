@@ -44,7 +44,7 @@ When the installer asks you to choose the default editor, you may want to select
 
 ### On a Mac
 
-If you're on a Mac, you can get `git` as part of the XCode command-line developer tools. Open up Terminal and type `git --version`:
+If you're on a Mac, you can get `git` as part of the Xcode command-line developer tools. Open up Terminal and type `git --version`:
 
 <img width="638" alt="Terminal with the command &quot;git --version&quot; typed" src="https://user-images.githubusercontent.com/56209343/89746736-f0de7000-da80-11ea-9ab5-cf48acd6b5f7.png">
 
