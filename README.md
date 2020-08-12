@@ -22,7 +22,7 @@ All of the code for Minnesota Pollinators&mdash;along with its revision history&
 
 You'll want to join the [Minnesota Pollinators][] organization ([Prof. KK Lamberty][] can invite you).
 
-If you're a student at Morris, be sure to sign up for the [student developer pack][Student developer pack] as well!
+If you're a student at Morris, be sure to sign up for the [GitHub Student Developer Pack][Student developer pack] as well!
 
 ## Installing Visual Studio Code
 
