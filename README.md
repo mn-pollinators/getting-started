@@ -74,7 +74,7 @@ Now, you should be able to see the whole history of the project!
 
 ## Installing Node.js
 
-At this point, you should have all of the code for a repository on your computer, but you still don't have a way to compile and run it. For that, you'll need to install Node.js, a JavaScript interpreter.
+At this point, you should have all of the code for a repository on your computer, but you still don't have a way to compile and run it. For that, you'll need to install Node.js, a JavaScript runtime.
 
 You can download Node.js, along with its associated command-line tools, [here][Node.js]. The LTS (long-term support) version should be fine.
 
