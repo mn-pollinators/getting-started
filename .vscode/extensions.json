@@ -1,6 +1,7 @@
 {
   "recommendations": [
-    // We use Markdown All in One to generate the table of contents.
+    // Markdown All in One
+    // https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
     "yzhang.markdown-all-in-one"
   ]
 }
