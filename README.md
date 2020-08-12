@@ -58,7 +58,7 @@ If you don't get a pop-up, but instead get a version number like this, that mean
 
 ## Installing GitKraken
 
-`git` by itself is very spare, so we've been using it through a program called [GitKraken][]. (This program has a nice chart showing all of the revisions over time.) You can use GitKraken for free, but if you're a Morris student, you have access to the pro version through GitHub's student developer pack.
+`git` by itself is very spare, so we've been using it through a program called [GitKraken][]. (This program has a nice chart showing all of the revisions over time.) You can use GitKraken for free, but if you're a Morris student, you have access to the pro version through the [GitHub Student Developer Pack][Student developer pack].
 
 ![The screen GitKraken shows when it first launches][i:GitKraken splash page]
 
