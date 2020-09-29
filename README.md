@@ -24,6 +24,14 @@ You'll want to join the [Minnesota Pollinators][] organization ([Prof. KK Lamber
 
 If you're a student at Morris, be sure to sign up for the [GitHub Student Developer Pack][Student developer pack] as well!
 
+## Installing Visual Studio Code
+
+Next, in order to read and write the code, you're going to need a text editor. There are a lot of good options, but the one that we've been using is [Visual Studio Code][], particularly because of its [Live Share][Live share] feature.
+
+![Visual Studio Code][i:VS Code]
+
+When you open Visual Studio Code for the first time, you might get a pop-up in the bottom-right corner asking if you'd like to install the recommended extensions for this workspace. These are things like better autocomplete, spell checking, and warning messages&mdash;go ahead and install them.
+
 ## Installing `git`
 
 `git` is a version-control system: it keeps track of all of the changes made to the project, and lets several people work on the same code in parallel.
@@ -67,14 +75,6 @@ Now, you should be able to see the whole history of the project!
 ![The screen that GitKraken shows when you've opened a repo][i:GitKraken graph view]
 
 Generally speaking, you will want to create a branch for any feature or change you wish to contribute, and then make a pull request in GitHub when you think it is ready for review to be added to the main branch in the repository. You can check out any branch locally using GitKraken by double-clicking it.
-
-## Installing Visual Studio Code
-
-Next, in order to read and write the code, you're going to need a text editor. There are a lot of good options, but the one that we've been using is [Visual Studio Code][], particularly because of its [Live Share][Live share] feature.
-
-![Visual Studio Code][i:VS Code]
-
-When you open Visual Studio Code for the first time, you might get a pop-up in the bottom-right corner asking if you'd like to install the recommended extensions for this workspace. These are things like better autocomplete, spell checking, and warning messages&mdash;go ahead and install them.
 
 ## Installing Node.js
 
